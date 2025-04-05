@@ -1,0 +1,8 @@
+openai
+speechrecognition
+pyttsx3
+tkinter
+flask
+docker
+pytorch
+scikit-learn
